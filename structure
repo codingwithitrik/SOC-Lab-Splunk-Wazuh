@@ -1,0 +1,10 @@
+SOC-Lab-Splunk-Wazuh/
+├── screenshots/
+│   ├── splunk-dashboard.png
+│   ├── wazuh-alerts.png
+├── queries/
+│   ├── brute_force.spl
+│   ├── suspicious_login.spl
+├── incident-reports/
+│   ├── brute-force-incident.pdf
+├── README.md
